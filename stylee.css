@@ -1,0 +1,39 @@
+.Container {
+height: 100vh;
+background: linear-gradient(135deg,#153677,#4e085f);
+text-align: center;
+color: white;
+font-family: sans-serif; 
+}
+
+.Heading {
+font-size: xx-large; }
+.Textbox {
+width: 300px;
+height: 30px;
+border-radius: 10px;
+background-color: white;
+color: black;
+font-family: Arial; 
+font-size: large;
+}
+
+.Btn {
+padding: 20px;
+background-color:#427497;;
+border-radius: 10px;
+color: white;
+}
+
+.ToBeDone {
+width: 400px;
+margin: auto;
+background-color: #427497; 
+border-radius: 10px; padding:
+15px 0px 15px 30px;display:
+none;
+align-content: center;
+flex-direction: column;
+text-align: left;
+font-size: larger;
+}
